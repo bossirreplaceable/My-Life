@@ -10,3 +10,7 @@
 3.学习android的资料（干货汇集）
 --------------
 [here](http://blog.csdn.net/xiaole0313/article/details/54376967)
+
+4.学习自定义View
+ - ------------
+ [here](http://blog.csdn.net/carson_ho/article/details/62037696)
