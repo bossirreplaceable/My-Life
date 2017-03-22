@@ -14,3 +14,8 @@
 4.学习自定义View
 -------------
  [here](http://blog.csdn.net/carson_ho/article/details/62037696)
+
+5.阿里面试题2
+------------
+[here](http://www.autotech.cn/wp-admin/)
+ 
