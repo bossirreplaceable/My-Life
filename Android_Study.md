@@ -7,3 +7,8 @@
 2.Synchronized的详解
 --------------------
 [here](http://blog.csdn.net/luoweifu/article/details/46613015)
+
+3.修饰符详解
+ -----------------
+ [here](http://mp.weixin.qq.com/s/Qc-KzSqwVMDIal-nAHud2g)
+ 
